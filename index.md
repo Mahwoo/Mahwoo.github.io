@@ -1,5 +1,7 @@
 # Welcome to Monkey Game Thing
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 ## Header 2
 ### Header 3
 - Bulleted
@@ -10,7 +12,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](images/ok.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
