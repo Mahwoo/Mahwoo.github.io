@@ -1,6 +1,10 @@
 # Welcome to Monkey Game Thing
 
-## Instuctions:
+## Ideas:
+
+To submit ideas go to https://trello.com/b/TN13JO6v
+
+## Installation Instuctions:
 
 1. Go to https://itch.io/app and download the app.
 
