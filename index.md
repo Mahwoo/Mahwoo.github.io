@@ -2,7 +2,7 @@
 
 ## Ideas:
 
-To submit ideas go to https://trello.com/b/TN13JO6v
+To submit ideas go to https://trello.com/invite/b/TN13JO6v/d9bdd5d249ca769b2af2586ab574f368/monke-game
 
 ## Installation Instuctions:
 
